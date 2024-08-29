@@ -1,0 +1,163 @@
+.div0{
+    background-image: url(/images/pexels-eberhardgross-1612351.jpg);
+    background-size: cover;
+    height: 550px;
+}
+.fa{
+    text-decoration: none;
+    background-color: white;
+    padding: 10px;
+    width: 15px;
+    border-radius: 50%;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    display: inline;
+    color: black;
+}
+.div2{
+    height: 100px;
+    width: 1200px;
+    background-color: white;
+    display: flex;
+    margin-bottom: 100px;
+}
+img{
+    margin-left: 10px;
+}
+.heading{
+    margin-top: 30px;
+    margin-left: 20px;
+    margin-right: 140px;
+    color: rgb(30, 180, 240);
+}
+ul{
+    margin-top: 43px;
+}
+li{
+    display: inline;
+    margin-left: 50px; 
+}
+a{
+    text-decoration: none;
+    color: rgb(27, 27, 245);
+}
+.slogan1{
+    color: aqua;
+}
+.slogan2{
+    font-family: 'Lucida Sans';
+    color: burlywood;
+    font-style: italic;
+}
+.exp{
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(248, 97, 42);
+    color: white;
+    border: 0;
+}
+.ours{
+    margin-top: 50px;
+    font-style: italic;
+    margin-bottom: 5px;
+
+}
+.div4{
+    display: flex;
+    margin-top: 40px;
+}
+.box1{
+    padding: 20px;
+    height: 200px;
+    width: 250px;
+    background-color: lightgreen;
+    margin-left: 50px;
+    text-align: justify;
+    text-align-last: center;
+}
+.box2{
+    padding: 20px;
+    height: 200px;
+    width: 250px;
+    background-color: rgb(235, 173, 87);
+    margin-left: 50px;
+    text-align: justify;
+    text-align-last: center;
+}
+.box3{
+    padding: 20px;
+    height: 200px;
+    width: 250px;
+    background-color: rgb(91, 156, 241);
+    margin-left: 50px;
+    text-align: justify;
+    text-align-last: center;
+}
+.box4{
+    padding: 20px;
+    height: 200px;
+    width: 250px;
+    background-color: rgb(244, 140, 243);
+    margin-left: 50px;
+    text-align: justify;
+    text-align-last: center;
+}
+.photos{
+    margin-top: 50px;
+    font-style: italic;
+    margin-bottom: 5px;
+    font-size: 40px;
+}
+.div6{
+    margin-top: 40px;
+}
+.photo{
+    height: 230px;
+    width: 250px;
+    margin: 15px;
+}
+.agents{
+    font-style: italic;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.div8{
+    margin-top: 40px;
+}
+.agent{
+    width: 250px;
+    height: 235px;
+    margin: 20px;
+    border-radius: 50%;
+}
+.contact{
+    margin-top: 40px;
+    font-style: italic;
+    font-size: 40px;
+    margin-bottom: 5px;
+}
+.div10{
+    margin-top: 30px;
+    display: flex;
+}
+.div11{
+    text-align: justify;
+    text-align-last: left;
+    width: 700px;
+}
+.tcontent{
+    line-height: 30px;
+}
+.div12{
+    margin-top: 10px;
+    margin-left: 50px;
+}
+input{
+    margin-top: 20px;
+    height: 30px;
+    width: 300px;
+    padding: 5px;
+}
